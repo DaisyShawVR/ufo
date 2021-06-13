@@ -1,2 +1,0 @@
-# ufo
-UFO and Alien
